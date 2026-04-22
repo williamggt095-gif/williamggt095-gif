@@ -16,7 +16,7 @@
 > user: william_gabriel
 > role: software_developer_in_progress
 > focus: javascript / web development
-> status: evolving... ███████░░░░
+> status: evolving... 
 ```
 
 ---
@@ -70,15 +70,7 @@
 > email: williamggt095@gmail.com
 ```
 
----
-
-## 👁️ PROFILE VIEWS
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=williamggt095-gif&label=Profile%20views&color=bb86fc&style=flat" />
-</p>
-
----
+```
 
 <p align="center">
   💜 "Code. Learn. Evolve." 💜
