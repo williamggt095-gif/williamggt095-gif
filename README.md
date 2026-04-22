@@ -1,73 +1,85 @@
-# 👾 William Gabriel
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:00ff00&height=250&section=header&text=William%20Gabriel&fontColor=00ff00&fontSize=45&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:8a2be2&height=250&section=header&text=William%20Gabriel&fontColor=bb86fc&fontSize=45&animation=twinkling&fontAlignY=35&desc=Developer%20in%20Progress&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=22&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+evolução;Focado+em+JavaScript+e+Web;Sempre+aprendendo+novas+tecnologias" />
+</p>
 
-```bash
-> Nome: William Gabriel
-> Área: Desenvolvimento de Software
-> Foco: Front-end / JavaScript
-> Status: Em evolução constante...
+---
+
+## 🧠 SYSTEM INFO
+
+```bash id="roxo1"
+> user: william_gabriel
+> role: software_developer_in_progress
+> focus: javascript / web development
+> status: evolving... ███████░░░░
 ```
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=bb86fc">
+  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=bb86fc">
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=bb86fc">
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=bb86fc">
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamggt095-gif&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williamggt095-gif&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamggt095-gif&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamggt095-gif&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Projeto destaque
+## 🐍 CONTRIBUTION SNAKE
 
-```bash
-> Projeto: To-do List
-> Stack: HTML | CSS | JavaScript
-> Features: CRUD, Filtro, Dark Mode, LocalStorage
+<p align="center">
+  <img src="https://github.com/williamggt095-gif/williamggt095-gif/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 PROJECT HIGHLIGHT
+
+```bash id="roxo2"
+> project: todo-list
+> stack: HTML | CSS | JavaScript
+> features: CRUD, filters, dark mode, localStorage
 ```
 
 🔗 https://github.com/williamggt095-gif/todo-list
 
 ---
 
-## 📡 Contato
+## 📡 CONTACT
 
-```bash
-> Email: seuemail@gmail.com
+```bash id="roxo3"
+> email: williamggt095@gmail.com
 ```
 
 ---
 
-## 🟢 Status
+## 👁️ PROFILE VIEWS
 
-```bash
-[██████████░░░░░░░░░░] 50% evoluindo...
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=williamggt095-gif&label=Profile%20views&color=bb86fc&style=flat" />
+</p>
 
 ---
 
 <p align="center">
-  ⚡ "Code. Learn. Evolve." ⚡
+  💜 "Code. Learn. Evolve." 💜
 </p>
