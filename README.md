@@ -37,4 +37,6 @@
 ---
 
 ⭐ Sempre buscando aprender e evoluir!
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamggt095-gif&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamggt095-gif&layout=compact&theme=dark)
