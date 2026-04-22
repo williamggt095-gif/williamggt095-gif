@@ -44,14 +44,6 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/williamggt095-gif/williamggt095-gif/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 PROJECT HIGHLIGHT
 
 ```bash id="roxo2"
