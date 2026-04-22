@@ -70,7 +70,6 @@
 > email: williamggt095@gmail.com
 ```
 
-```
 
 <p align="center">
   💜 "Code. Learn. Evolve." 💜
