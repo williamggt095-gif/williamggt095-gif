@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o William Gabriel
 
-<!--
-**williamggt095-gif/williamggt095-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software  
+🚀 Em busca de oportunidades como desenvolvedor  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 📚 Atualmente estudando programação e desenvolvimento web  
+- 💡 Interessado em tecnologia e criação de projetos  
+- 🎯 Focado em evoluir como desenvolvedor  
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+
+---
+
+## 🚀 Projetos
+
+- 📝 To-do List  
+🔗 https://github.com/williamggt095-gif/todo-list  
+
+---
+
+## 📫 Contato
+
+- Email: williamggt095@gmail.com  
+
+---
+
+⭐ Sempre buscando aprender e evoluir!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamggt095-gif&show_icons=true&theme=dark)
