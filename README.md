@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:bb86fc&height=260&section=header&text=wgabriel.exe&fontColor=bb86fc&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Access%20Granted%20%7C%20System%20Online&descAlignY=65&descAlign=50" />
 </p>
+
 ---
 
 <p align="center">
