@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://github.com/williamggt095-gif">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05000f,50:2a004f,100:bb86fc&height=260&section=header&text=William%20Gabriel&fontColor=bb86fc&fontSize=50&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cyberpunk%20Dev&descAlignY=60&descAlign=50" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:00ff00&height=250&section=header&text=William%20Gabriel&fontColor=2e1a47&fontSize=45&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descAlign=50" />
 </p>
-
 ---
 
 <p align="center">
