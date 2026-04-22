@@ -1,7 +1,7 @@
 # 👾 William Gabriel
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+evolução;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:00ff00&height=250&section=header&text=William%20Gabriel&fontColor=00ff00&fontSize=45&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descAlign=50" />
 </p>
 
 ---
