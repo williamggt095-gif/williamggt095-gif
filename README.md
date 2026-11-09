@@ -32,18 +32,6 @@
 
 ---
 
-## 📊 SYSTEM STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamggt095-gif&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamggt095-gif&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 PROJECT HIGHLIGHT
 
 ```bash id="roxo2"
